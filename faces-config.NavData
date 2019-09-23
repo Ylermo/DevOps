@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scene Scope="Project" version="2">
+    <Scope Scope="Faces Configuration Only"/>
+    <Scope Scope="Project">
+        <Node id="Vistas/index/index.xhtml" x="53" y="86" zoom="true"/>
+        <Node id="Vistas/informacion/Informacion.xhtml" x="897" y="193" zoom="true"/>
+        <Node id="index.xhtml" x="319" y="13" zoom="true"/>
+        <Node id="Vistas/contactanos/contactos.xhtml" x="380" y="383" zoom="true"/>
+        <Node id="Vistas/Asignacion/ListAsig.xhtml" x="589" y="247" zoom="true"/>
+        <Node id="Vistas/Template/Login2.xhtml" x="-191" y="126" zoom="true"/>
+        <Node id="Vistas/Asignacion/ListAsigCult.xhtml" x="896" y="378" zoom="true"/>
+        <Node id="Vistas/informacion/Detalle_Informacion.xhtml" x="701" y="476" zoom="true"/>
+        <Node id="*" x="-79" y="301" zoom="true"/>
+        <Node id="Vistas/Sector/Sector.xhtml" x="305" y="148" zoom="true"/>
+        <Node id="Vistas/Cultivo/Cultivos.xhtml" x="347" y="478" zoom="true"/>
+        <Node id="Vistas/Cultivo/autoCompletado.xhtml" x="707" y="146" zoom="false"/>
+        <Node id="Vistas/Template/Template.xhtml" x="445" y="64" zoom="true"/>
+        <Node id="Vistas/Personal/Personal.xhtml" x="48" y="478" zoom="true"/>
+    </Scope>
+    <Scope Scope="All Faces Configurations"/>
+</Scene>
