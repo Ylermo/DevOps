@@ -1,0 +1,65 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+
+ 
+    Created on : May 15, 2019, 4:15:17 PM
+    Author     : jq_00
+
+
+#SelectCultivo{
+    width: 100%;
+}
+
+
+.boton{
+    margin:0.9em
+}
+
+@media only screen and (min-width: 993px) {  large only , large and up
+    .formulario{
+        display: block;
+        width: 50%;
+    }
+    .InputRespon{
+        width: 100%;
+    }
+
+    .md-inputfield span .hasDatepicker{
+        display: inline;
+        width: 80%;
+    }
+}
+@media only screen and (min-width: 640px) and (max-width: 992px) {  medio only
+    .formulario{
+        display: block;
+        width: 70%;
+    }
+    .InputRespon{
+        width: 100%;
+    }
+
+    .md-inputfield span .hasDatepicker{
+        display: inline;
+        width: 80%;
+    }
+
+}
+@media only screen and (max-width: 640px) {  small only , small and down 
+    input{
+        display: block;
+        width: 100%;
+    }
+    .InputRespon{
+        width: 100%;
+    }
+
+    .md-inputfield span .hasDatepicker{
+        display: inline;
+        width: 80%;
+    }
+
+}
+*/
+

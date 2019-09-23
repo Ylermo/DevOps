@@ -1,0 +1,35 @@
+.agregar-icon{
+        background-image: url("#{facesContext.externalContext.request.contextPath}/resources/images/Agregar.png") !important;
+}
+
+.actualizar-icon{
+        background-image: url("#{facesContext.externalContext.request.contextPath}/resources/images/Actualizar.png") !important;
+}
+
+.basura-icon{
+        background-image: url("#{facesContext.externalContext.request.contextPath}/resources/images/Basura.png") !important;
+}
+
+.cancelar-icon{
+        background-image: url("#{facesContext.externalContext.request.contextPath}/resources/images/Cancelar.png") !important;
+}
+
+.editar-icon{
+        background-image: url("#{facesContext.externalContext.request.contextPath}/resources/images/Editar.png") !important;
+}
+
+.eliminar-icon{
+        background-image: url("#{facesContext.externalContext.request.contextPath}/resources/images/Eliminar.png") !important;
+}
+
+.check-icon{
+        background-image: url("#{facesContext.externalContext.request.contextPath}/resources/images/Check.png") !important;
+}
+
+.advertencia-icon{
+        background-image: url("#{facesContext.externalContext.request.contextPath}/resources/images/Advertencia.png") !important;
+}
+
+.btn-aceptar{
+        background-image: url("#{facesContext.externalContext.request.contextPath}/resources/images/boton.svg") !important;
+}

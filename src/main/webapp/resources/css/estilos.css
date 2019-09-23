@@ -1,0 +1,50 @@
+/*.TituloPersonal{
+position: absolute;
+width: 130px;
+height: 130px;
+
+background: linear-gradient(180deg, #5FCA63 0%, rgba(255, 255, 255, 0) 100%),
+    #9FD386;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+*/
+
+
+/*.ui-column-filter{
+    display: none !important;
+}*/
+
+.ui-error{
+    background-image: linear-gradient(to bottom, #e74c3c, #e74c3c), linear-gradient(to bottom, #e74c3c, #e74c3c) !important;
+}
+
+.ui-buttonLink {
+    overflow: hidden;
+    background-color: #2f4050;
+    color: #ffffff;
+    font-size: 16px;
+    height: 36px;
+    padding: 8px 16px;
+    border: 0 none;
+    margin-right: .2em;
+    -moz-box-shadow: 0 1px 2.5px 0 rgba(0, 0, 0, 0.26), 0 1px 5px 0 rgba(0, 0, 0, 0.16);
+    -webkit-box-shadow: 0 1px 2.5px 0 rgba(0, 0, 0, 0.26), 0 1px 5px 0 rgba(0, 0, 0, 0.16);
+    box-shadow: 0 1px 2.5px 0 rgba(0, 0, 0, 0.26), 0 1px 5px 0 rgba(0, 0, 0, 0.16);
+    -moz-transition: background-color 0.3s;
+    -o-transition: background-color 0.3s;
+    -webkit-transition: background-color 0.3s;
+    transition: background-color 0.3s; }
+
+.ui-buttonLink.ui-buttonLink-border {
+    background-color: white;
+    color: #2f4050;
+    border: 2px solid #2f4050;
+}
+
+
+.contentTitle{
+    padding: 1em;
+}
+.titleVistas{
+    font-size: 2em;         
+}
